@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+MyFrame	.\hello_form.py	/^class MyFrame(wx.Frame):$/;"	c
+OnBtnClick	.\hello_form.py	/^    def OnBtnClick(self,event):$/;"	m	class:MyFrame
+OnCloseMe	.\hello_form.py	/^    def OnCloseMe(self,event):$/;"	m	class:MyFrame
+OnCloseWindow	.\hello_form.py	/^    def OnCloseWindow(self,event):$/;"	m	class:MyFrame
+OnMove	.\hello_form.py	/^    def OnMove(self,event):$/;"	m	class:MyFrame
+__init__	.\hello_form.py	/^    def __init__(self,parent,id):$/;"	m	class:MyFrame
+a	.\mothods.py	/^a="aaa"$/;"	v
+app	.\hello_form.py	/^    app = wx.PySimpleApp()$/;"	v
+b	.\mothods.py	/^b="bbb"$/;"	v
+b	.\print.py	/^b='ww'$/;"	v
+c	.\mothods.py	/^c="ccc"$/;"	v
+c	.\print.py	/^c = 'ssss'$/;"	v
+d	.\print.py	/^d=b+c$/;"	v
+dict	.\dict.py	/^dict = {$/;"	v
+dict2	.\dict.py	/^dict2 = dict.copy()$/;"	v
+f	.\os.py	/^f=file('c:\\\\aa.txt','w')#创建一个空文件$/;"	v
+final	.\mothods.py	/^final=a+b+c$/;"	v
+frame	.\hello_form.py	/^    frame = MyFrame(parent=None,id=-1)$/;"	v
+n	.\tt.py	/^n=x if x<y else y$/;"	v
+os	.\os.py	/^import os$/;"	i
+pdb	.\mothods.py	/^import sys,pdb$/;"	i
+strs	.\mothods.py	/^strs = "one two three four five six seven eight nine".split()$/;"	v
+sys	.\mothods.py	/^import sys,pdb$/;"	i
+wx	.\hello_form.py	/^import wx$/;"	i
